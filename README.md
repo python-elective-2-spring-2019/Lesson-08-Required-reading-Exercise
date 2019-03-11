@@ -1,7 +1,7 @@
 # Lesson 8: Required reading Exercisepresentation & Feedback
 Agenda 12-03-2019
 
-* [Mandatory Assignment: Required readings List](https://github.com/python-elective-1-spring-2019/Lesson-07-Required-reading-Exercise/tree/master/exercises)
+* [Mandatory Assignment: Required readings List](https://github.com/python-elective-2-spring-2019/Lesson-07-Required-reading-Exercise/tree/master/exercises)
 
 ## Todays agenda
 Today you are going to show your mandatory assignment to me (Claus).  
